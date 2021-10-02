@@ -1,7 +1,8 @@
 # Pi Firmware Setup
 #### Raspberry Pi 4 Firmware + 1 Wire Temp Sensor Modules + Touchscreen UI
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
-<img src="https://img.shields.io/github/v/release/OctoPrint/OctoPrint?logo=github&logoColor=white" alt="GitHub release"/>
+<img src="https://img.shields.io/badge/Release-v1.0-blue" alt="GitHub release"/>
+<img src="https://img.shields.io/badge/-Contursi-orange" alt="GitHub release"/>
 ## SSH Acces
 ***Clear SSH keys to access via SSH after fresh install***
 ```
