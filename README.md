@@ -1,6 +1,6 @@
 # Pi Firmware Setup
 #### Raspberry Pi 4 Firmware + 1 Wire Temp Sensor Modules + Touchscreen UI
-<img src="https://img.shields.io/github/license/cwcontur/Contursi-Raspi-OctoPrint-Firmware"> <img src="https://img.shields.io/badge/-Contursi-blue" alt="GitHub release"> <img src="https://img.shields.io/github/v/release/cwcontur/Contursi-Raspi-OctoPrint-Firmware?color=yellow&include_prereleases"> <img src="https://img.shields.io/npm/v/npm?color=red"> <img src="https://img.shields.io/github/commit-activity/m/cwcontur/Contursi-Raspi-OctoPrint-Firmware?color=Green">
+<img src="https://img.shields.io/badge/-Contursi-blue" alt="GitHub release"/> <img src="https://awesome.re/badge.svg"> <img src="https://img.shields.io/github/license/cwcontur/Contursi-Raspi-OctoPrint-Firmware"> <img src="https://img.shields.io/github/v/release/cwcontur/Contursi-Raspi-OctoPrint-Firmware?color=yellow&include_prereleases"> <img src="https://img.shields.io/npm/v/npm?color=red"> <img src="https://img.shields.io/github/commit-activity/m/cwcontur/Contursi-Raspi-OctoPrint-Firmware?color=Green">
 
 ## SSH Access
 ***Clear SSH keys to access via SSH after fresh install***
