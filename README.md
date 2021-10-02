@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 <img src="https://img.shields.io/badge/Release-v1.0-blue" alt="GitHub release"/>
 <img src="https://img.shields.io/badge/-Contursi-orange" alt="GitHub release"/>
-<img src="https://badgen.net/github/release/babel/babel" alt="GitHub release"/>
+<img src="https://img.shields.io/npm/v/npm" alt="GitHub release"/>
 ## SSH Acces
 ***Clear SSH keys to access via SSH after fresh install***
 ```
