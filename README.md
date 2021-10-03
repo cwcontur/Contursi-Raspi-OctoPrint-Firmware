@@ -199,6 +199,14 @@ bash <(wget -qO- https://github.com/UnchartedBull/OctoDash/raw/main/scripts/inst
 
 **[Enable needed plugins + CORS]**
 
+**If stuck on initializing screen, use these to delete config.json using SSH**
+```
+mv ~/.config/octodash/config.json ~/.config/octodash/config.json.bak
+```
+```
+sudo service getty@tty1 restart
+```
+
 [^5]: [OctoDash](https://github.com/UnchartedBull/OctoDash) 
 
 ## OctoPrint Plugins
