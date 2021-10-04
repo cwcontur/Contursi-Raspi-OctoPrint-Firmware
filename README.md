@@ -221,6 +221,7 @@ sudo service getty@tty1 restart
 - Consolidated Tabs
 - DisplayLayerProgress
 - Enclosure Plugin [^10]
+  - Currently this is broken! Forces Marlin disconnect!
 - Filament Manager
 - Firmware Check
 - GPIO Control
