@@ -65,6 +65,10 @@ sudo nano /boot/cmdline.txt
 - Delete 'splash' parameter
 - Add 'quiet' parameter
 
+
+- Change console=tty -> console=serial0
+  - This will get rid of terminal text by redirecting it to serial [^11]
+  [^11]: [Hide all Boot Processes](https://www.raspberrypi.org/forums/viewtopic.php?t=270219)
 ```
 systemd-analyze blame
 ```
