@@ -135,43 +135,9 @@ displayed in the terminal to your clipboard
 [^3]: [Github SSH Setup](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) 
 
 ## Temp Sensor [^4]
-#### ***DS18B20 Sensor Being Replaced With MCP9808[^6]***
+#### ***DS18B20 Sensor Replaced With MCP9808[^6]***
 
 [^6]: [MCP9808](https://github.com/fivdi/mcp9808-temperature-sensor)
-
-```
-git clone git@github.com:thisdavej/ds18b20-raspi.git
-```
-```
-npm install --save ds18b20-raspi
-```
-```
-$ ds18b20 [deviceId] [options]
-
-Options
-  --all, -a       Get readings of all temperature sensors found
-  --list, -l      List device ids of all 1-Wire sensors found
-  --degf, -f      Get temperature in degF instead of degC
-  --decimals, -d  Number of decimal digits to display
-  --help, -h      Show help
-  --version, -v   Display version information
-
-Examples
-  Get temperature of sensor (only works if there is exactly one DS18B20 1-Wire sensor present)
-  $ ds18b20
-
-  Get temperature readings of all 1-Wire sensors found
-  $ ds18b20 -a
-
-  Get temperature of a specific 1-Wire device id
-  $ ds18b20 28-051724b238ff
-
-  Get temperature of a specific 1-Wire device id in degF with 2 decimals
-  $ ds18b20 28-051724b238ff -f -d 2
-
-  List device ids of all 1-Wire sensors found
-  $ ds18b20 --list
-```
 
 #### MCP9808 [^7] [^8]
 
@@ -194,7 +160,6 @@ sudo python setup.py install
 
 [^7]: [MCP9808 Wiring](https://learn.adafruit.com/mcp9808-temperature-sensor-python-library/hardware)
 [^8]: [MCP9808 Software](https://learn.adafruit.com/mcp9808-temperature-sensor-python-library/software)
-[^4]: [DS18B20](https://github.com/thisdavej/ds18b20-raspi) 
 
 ## OctoPrint UI [^5]
 ```
