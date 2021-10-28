@@ -134,7 +134,7 @@ displayed in the terminal to your clipboard
 
 [^3]: [Github SSH Setup](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) 
 
-## Temp Sensor [^4]
+## Temp Sensor [^6]
 #### ***DS18B20 Sensor Replaced With MCP9808[^6]***
 
 [^6]: [MCP9808](https://github.com/fivdi/mcp9808-temperature-sensor)
